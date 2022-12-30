@@ -15,8 +15,11 @@ Google colab and spark was used to perform ETL (extract, Transform, Load) along 
 Also the associated google colab notebook is Amazon_Reviews_ETL.ipynb located in this directory.
 
 ![review_id_table](https://github.com/y2k600f4/Amazon_Vine_Analysis/blob/main/review_id_table.PNG)
+
 ![products_table](https://github.com/y2k600f4/Amazon_Vine_Analysis/blob/main/products_table.PNG)
+
 ![customers_table](https://github.com/y2k600f4/Amazon_Vine_Analysis/blob/main/customers_table.PNG)
+
 ![vine_table](https://github.com/y2k600f4/Amazon_Vine_Analysis/blob/main/vine_table.PNG)
 
 
